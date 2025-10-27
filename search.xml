@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>二叉树的遍历算法详解</title>
+      <link href="/2025/10/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E7%AE%97%E6%B3%95%E7%AC%94%E8%AE%B0/"/>
+      <url>/2025/10/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E7%AE%97%E6%B3%95%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="算法原理"><a href="#算法原理" class="headerlink" title="算法原理"></a>算法原理</h2><p>二分查找是一种高效的搜索算法…</p><h2 id="代码实现"><a href="#代码实现" class="headerlink" title="代码实现"></a>代码实现</h2><p>​<code>python def binary_search(arr, target):     left, right = 0, len(arr) - 1     ... ​</code></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 算法学习 </category>
+          
+          <category> 树结构 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数据结构 </tag>
+            
+            <tag> 二叉树 </tag>
+            
+            <tag> DFS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
